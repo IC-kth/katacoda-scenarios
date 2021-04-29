@@ -1,0 +1,42 @@
+{
+  "title": "Nginx on Vagrant box tutorial",
+  "description": "create basic nginx webserver on a vagrant box",
+  "difficulty": "Intermediate",
+  "time": "15 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1: Installing Vagrant",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2: Docker",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3: Installing Nginx",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4: Configuration",
+        "text": "step4.md"
+      },
+      {
+        "title": "Step 5: Automation",
+        "text": "step5.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal-v1"
+  },
+  "backend": {
+    "imageid": "ubuntu:1804"
+  }
+}
