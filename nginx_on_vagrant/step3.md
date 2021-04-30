@@ -13,6 +13,6 @@ We will install Nginx using the following command:
 
 `sudo apt install nginx`{{execute interrupt}}
 
-📢 When prompted press **Y**.
+📢 When prompted with *Do you want to continue?* press **Y**.
 
    

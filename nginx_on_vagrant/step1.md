@@ -34,7 +34,7 @@ Then we need to install Vagrant by executing
 
 `sudo apt install vagrant`{{execute interrupt}}
 
-📢 When prompted press **Y**.
+📢 When prompted with *Do you want to continue?* press **Y**.
 
 💡 Tip: *To check that the installation was successful, run the following command `vagrant --version`{{execute interrupt}} that will print the installed Vagrant version.*
      
