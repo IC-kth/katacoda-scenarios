@@ -1,9 +1,9 @@
 
-![Nginx](./assets/images/nginxLogo.png)
+![Nginx](assets/nginxLogo.png)
 
 
 
-##Install Nginx
+## Install Nginx
 
 First, we need to update the existing package versions and their dependencies to the latest available. We can do this by running the following command:
 

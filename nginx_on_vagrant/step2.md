@@ -1,4 +1,4 @@
-![Docker](./assets/images/docker_logo.png)
+![Docker](assets/docker_logo.png)
  
 [Docker](https://www.docker.com/) is an open platform for developing, shipping, and running applications. Docker allows developers to separate the applications from the infrastructure, which ensures that software can be quickly delivered. 
 

@@ -1,5 +1,5 @@
 
-![Vagrant](./assets/images/Vagrant_logo.png)
+![Vagrant](assets/Vagrant_logo.png)
 
 Developed by HashiCorp, [Vagrant](https://www.vagrantup.com/) is a command-line tool for building and managing virtual machine environments in a single workflow. 
 
@@ -40,7 +40,7 @@ Then we need to install Vagrant by executing
      
 If you see the version printed in the terminal, congratulations! You have now installed Vagrant!
 
-##Create a new directory for vagrant box
+## Create a new directory for vagrant box
 
 Now that we have Vagrant installed, we need to create a directory for Vagrant box. Let's call it box:
 
