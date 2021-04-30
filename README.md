@@ -12,6 +12,12 @@ providing further insight into system management and administration.
 ## Link
 Katakoda link: [nginx on vagrant tutorial](https://www.katacoda.com/ic/scenarios/nginx_on_vagrant)
 
+## Easter egg
+We included an easter egg in our tutorial. Whenever the user mistypes a command, the following message will be displayed:
+
+"Can you even like, type?"
+
+This is just a more funny *and les aggressive) way of pointing out a typing error than "bash: command not found".
 ## Grading criteria
 
 We aim for the following grading criteria:
