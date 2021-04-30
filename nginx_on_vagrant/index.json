@@ -1,6 +1,6 @@
 {
   "title": "Nginx on Vagrant box tutorial",
-  "description": "create basic nginx webserver on a vagrant box",
+  "description": "In this tutorial we will explore the steps to create a basic Nginx webserver on a Vagrant box.",
   "difficulty": "Intermediate",
   "time": "15 minutes",
   "details": {
@@ -27,7 +27,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "code": "egg.sh"
     },
     "finish": {
       "text": "finish.md"
